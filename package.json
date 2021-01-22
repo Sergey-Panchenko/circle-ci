@@ -5,6 +5,9 @@
   "repository": "git@github.com:Sergey-Panchenko/circle-ci.git",
   "author": "Sergey-Panchenko <spanche@softserveinc.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo 'TEST'"
+  },
   "dependencies": {
     "axios": "0.21.1"
   }
